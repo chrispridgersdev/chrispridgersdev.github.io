@@ -111,7 +111,7 @@ input, select, textarea {
 	}
 
 	body, input, textarea, select {
-		font-family: 'Futura', sans-serif;
+		font-family: 'Futura', sans-serif !important;
 		font-weight: 400;
 		color: #919499;
 		font-size: 14pt;
